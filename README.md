@@ -1,0 +1,2 @@
+# functionGetObjectProperty
+функция getObjectProperty тестовое задание
